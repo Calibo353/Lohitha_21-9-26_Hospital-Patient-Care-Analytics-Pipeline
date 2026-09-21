@@ -1,0 +1,6 @@
+patient_id,patient_name,age,gender,registration_date
+P001,Ravi Kumar,45,Male,2026-09-01
+P002,Sita Devi,32,Female,2026-09-02
+P003,Arjun Rao,60,Male,2026-09-03
+P004,Lakshmi,28,Female,2026-09-04
+P005,Manoj,51,Male,2026-09-05

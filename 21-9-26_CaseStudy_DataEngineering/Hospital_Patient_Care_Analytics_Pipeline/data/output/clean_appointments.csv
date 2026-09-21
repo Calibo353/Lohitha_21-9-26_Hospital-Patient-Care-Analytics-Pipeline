@@ -1,0 +1,6 @@
+appointment_id,patient_id,appointment_date,department,doctor_name,wait_time_minutes,status
+A001,P001,2026-09-10,Cardiology,Dr. Kumar,25,Completed
+A002,P002,2026-09-11,General Medicine,Dr. Reddy,15,Completed
+A003,P003,2026-09-12,Orthopedics,Dr. Rao,40,Completed
+A004,P004,2026-09-13,Dermatology,Dr. Singh,10,Scheduled
+A005,P005,2026-09-14,Cardiology,Dr. Kumar,30,Completed

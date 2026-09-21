@@ -1,0 +1,6 @@
+patient_id,patient_name,age,gender,registration_date,appointment_id,appointment_date,department,doctor_name,wait_time_minutes,status
+P001,Ravi Kumar,45,Male,2026-09-01,A001,2026-09-10,Cardiology,Dr. Kumar,25,Completed
+P002,Sita Devi,32,Female,2026-09-02,A002,2026-09-11,General Medicine,Dr. Reddy,15,Completed
+P003,Arjun Rao,60,Male,2026-09-03,A003,2026-09-12,Orthopedics,Dr. Rao,40,Completed
+P004,Lakshmi,28,Female,2026-09-04,A004,2026-09-13,Dermatology,Dr. Singh,10,Scheduled
+P005,Manoj,51,Male,2026-09-05,A005,2026-09-14,Cardiology,Dr. Kumar,30,Completed
